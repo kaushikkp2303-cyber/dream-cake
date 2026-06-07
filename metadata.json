@@ -1,0 +1,6 @@
+{
+  "name": "Dream Cakes",
+  "description": "An elegant, modern, responsive single-page website for Dream Cakes bakery, featuring a hero showcase, about section, cake cards, customer testimonials, why chess us highlights, and an interactive contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
